@@ -1,4 +1,17 @@
-  -This keyword  
- - Async JS
- - JSon intro
- - Complete figma design Assignment
+🔁 this Keyword in JavaScript
+this refers to the object from which the function was called.
+
+🔹 Arrow Function Context:
+Arrow functions don’t have their own this, they inherit it from the parent scope.
+⏳ Async JavaScript (Promises & Async/Await)
+Used to handle asynchronous operations like API calls or timers.
+
+🔹 Promise (ES6)
+A Promise represents a value that may be available now, later, or never.
+🔹 async / await (ES8)
+Simplifies working with promises using async functions and await keyword.
+
+📦 JSON (JavaScript Object Notation)
+JSON is a lightweight data format used for exchanging data between client and server.
+
+It’s basically a string version of a JS object, only with double quotes.
