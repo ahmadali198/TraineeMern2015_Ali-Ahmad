@@ -1,1 +1,12 @@
- 1. Detail discussion of flexbox and Grid  Basic use of Chrome dev tools
+ 1. Detail discussion of flexbox 
+Flexbox is a one-dimensional layout system for aligning items horizontally or vertically in a container.
+It uses properties like display: flex, justify-content, and align-items to control spacing, alignment, and order.
+ 2. Detail discussion of Grid
+Grid is a two-dimensional layout system that lets you align items in rows and columns.
+
+It uses display: grid, grid-template-columns/rows, and gap to create complex responsive layouts easily.
+
+3-Basic use of Chrome dev tools
+Use Inspect Element (Right-click > Inspect) to analyze and edit HTML/CSS live in  browser.
+
+The Elements panel helps to view structure, while the Styles tab shows active CSS and allows testing layout changes.
